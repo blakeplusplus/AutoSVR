@@ -18,3 +18,10 @@ A Python-based solution to automate the rendering of demos using [SourceDemoRend
 - Play your first demo
 
 The script will go through each demo and automatically record it for you.
+
+### Settings for SVR's default.ini
+
+This was given to me by exer, so when he sent this to me he also sent me his SVR settings. I'll partially preserve them here.
+
+- motion_blur_enabled=1
+- motion_blur_exposure=0.2
